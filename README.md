@@ -8,10 +8,10 @@ I'm a passionate developer with a keen interest in backend development, open-sou
 
 - 🔭 I’m currently working on **[racelist.gr](https://racelist.gr)**
 - 🌱 I’m currently learning nothing new, just sharpening my skills on what I already know
-- 🤔 I’m looking for help with **anything in Golang, C# or TypeScript**
+- 🤔 I’m looking for help with **anything in C#, Golang or TypeScript**
 - 💬 Ask me about **C#, Golang, JavaScript, TypeScript, PostgreSQL, MSSQLServer**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ipinakoulakis/)**
-- ⚡ Fun fact: **I run about 3 times a week**
+- ⚡ Fun fact: **I run about 4 times a week**
 
 ## Skills
 
@@ -31,5 +31,6 @@ I'm a passionate developer with a keen interest in backend development, open-sou
 - [Twitter](https://x.com/ipinak)
 - [BlueSky](https://bsky.app/profile/ipinak.bsky.social)
 - [Personal Website](https://ipinak.gr)
+- [Company Website](https://techpals.eu)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just say hi. 😊
